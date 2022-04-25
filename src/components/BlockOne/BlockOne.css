@@ -1,0 +1,40 @@
+.blockOne {
+    margin-top: 30px;
+}
+
+.blockOne-item {
+    text-align: center;
+    max-height: 200px;
+    padding: 67px 0;
+    margin-bottom: 30px;
+}
+
+.blockOne-item__title {
+    font-size: 18px;
+    font-weight: 800;
+    margin: 5px;
+}
+
+.blockOne-item__info {
+    font-size: 20px;
+    margin: 0;
+}
+
+.item--black {
+    background-color: #000;
+    color: #fff;
+}
+
+.item--grey {
+    background-color: #f1f1f1;
+}
+
+.blockOne--big {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 40%;
+}
+
+.blockOne--small {
+    width: 20%;
+}
